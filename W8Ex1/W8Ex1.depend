@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1366653906 source:d:\users\malcolm\dropbox\work\teaching\inb371 2013 semester 1\weekly material\week 08\lecture\record.cpp
+	"record.h"
+
+1366653925 d:\users\malcolm\dropbox\work\teaching\inb371 2013 semester 1\weekly material\week 08\lecture\record.h
+	<string>
+
+1366655066 source:d:\users\malcolm\dropbox\work\teaching\inb371 2013 semester 1\weekly material\week 08\lecture\hashtable.cpp
+	<cstddef>
+	"hashtable.h"
+	"record.h"
+
+1366652254 d:\users\malcolm\dropbox\work\teaching\inb371 2013 semester 1\weekly material\week 08\lecture\hashtable.h
+	<vector>
+	"record.h"
+
+1366655059 source:d:\users\malcolm\dropbox\work\teaching\inb371 2013 semester 1\weekly material\week 08\lecture\usehashtable.cpp
+	<iostream>
+	"hashtable.h"
+
+1397578543 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\lecture\hashtable\hashtable.cpp
+	<iostream>
+	"hashtable.h"
+
+1397572067 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\lecture\hashtable\hashtable.h
+	<vector>
+	"record.h"
+
+1397579280 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\lecture\hashtable\record.h
+	<string>
+	<iostream>
+
+1397578609 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\lecture\hashtable\usehashtable.cpp
+	<iostream>
+	"hashtable.h"
+
+1397576920 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\lecture\hashtable\record.cpp
+	"record.h"
+
+1397208645 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\lecture\hashtable\closed.cpp
+	<iostream>
+	"hashtable.h"
+
+1397586430 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\record.cpp
+
+1397586270 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\hashtable.cpp
+	<iostream>
+
+1397586130 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\usehashtable.cpp
+	<iostream>
+	"hashtable.h"
+
+1397586257 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\hashtable.h
+	<vector>
+	"record.h"
+	"hashtable.cpp"
+
+1397586349 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\record.h
+	<string>
+	<iostream>
+	"record.cpp"
+
+1397586430 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\record.cpp
+
+1397586498 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\hashtable\hashtable.cpp
+	<iostream>
+
+1397587177 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\w8ex1\record.cpp
+	"record.h"
+
+1397587198 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\w8ex1\record.h
+	<string>
+	<iostream>
+
+1397586994 source:d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\w8ex1\usehashtable.cpp
+	<iostream>
+	"hashtable.h"
+
+1397587589 d:\users\malcolm\dropbox\work\teaching\inb371 2014 semester 1\weekly material\week 08\workshop\w8ex1\hashtable.h
+	<vector>
+	"record.h"
+
+1398601934 source:c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\hashtable.cpp
+	<iostream>
+
+1398603658 source:c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\record.cpp
+	<math.h>
+
+1398603018 source:c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\usehashtable.cpp
+	<iostream>
+	"hashtable.h"
+
+1398601919 c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\hashtable.h
+	<vector>
+	"record.h"
+	"hashtable.cpp"
+
+1398600008 c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\record.h
+	<string>
+	<iostream>
+	"record.cpp"
+
+1398603658 c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\record.cpp
+	<math.h>
+
+1398601934 c:\qut\it44 - postgraduate\inn371\workshops\week 8\inn371-2014-workshop-08-code\w8ex1\hashtable.cpp
+	<iostream>
+
